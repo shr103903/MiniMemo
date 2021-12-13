@@ -28,7 +28,7 @@ import java.util.ArrayList;
 
 public class DrawActivity extends AppCompatActivity {
 
-    Button buttonBack, buttonErase, buttonEraseAll, buttonSave;
+    Button buttonBack, buttonErase, buttonEraseAll;
 
     final static int LINE = 1, CIRCLE = 2, RECT = 3,  //선, 원, 사각형 그리기
             RED = 4, YELLOW = 5, GREEN = 6, BLUE = 7, BLACK = 8, WHITE = 9;    //색 변경, 하얀색은 지우개
