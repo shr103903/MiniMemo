@@ -28,7 +28,6 @@ import java.util.ArrayList;
 
 public class DrawActivity extends AppCompatActivity {
 
-    TextView pictureName;
     Button buttonBack, buttonErase, buttonEraseAll, buttonSave;
 
     final static int LINE = 1, CIRCLE = 2, RECT = 3,  //선, 원, 사각형 그리기
